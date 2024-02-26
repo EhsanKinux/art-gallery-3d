@@ -46,12 +46,10 @@
 
 ## :dart: About ##
 
-An interactive, 3D art gallery featuring paintings and sketchings that I have done over the past while. This is a React-based application that leverages React-Three-Fiber to render my art in 3D with moving spotlights, smooth horizontal scrolling, interactive mouse movement, realistic lighting with shadows, and postprocessing to add effects to the scene including noise and filters.
+An interactive, 3D art gallery featuring paintings and sketchings React-based application that leverages React-Three-Fiber to render art in 3D with moving spotlights, smooth horizontal scrolling, interactive mouse movement, realistic lighting with shadows, and postprocessing to add effects to the scene including noise and filters.
 
-See and play with my deployed demo at: https://cynthia-3d-art-gallery.netlify.app/
+See and play with my deployed demo at: https://droplinked3dartgallery.netlify.app/
 
-
-https://user-images.githubusercontent.com/20048911/167222076-aeb6a9a5-eb95-452f-88c9-d582e9ce5bf2.mp4
 
 <!--![Alt Text](demo.gif)-->
 
@@ -80,7 +78,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/cynthiachiu/3D-Art-Gallery
+$ git clone https://github.com/EhsanKinux/art-gallery-3d.git
 
 # Access
 $ cd 3D-Art-Gallery
@@ -99,7 +97,7 @@ $ npm start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/cynthiachiu" target="_blank">cynthiachiu</a>
+Made with :heart: by <a href="https://github.com/EhsanKinux" target="_blank">Kinux</a>
 
 &#xa0;
 
