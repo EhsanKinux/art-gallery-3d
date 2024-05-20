@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <a href="https://cynthia-3d-art-gallery.netlify.app/">Demo</a>
+  <a href="https://droplinked3dartgallery.netlify.app/">Demo</a>
 </div>
 
 <h1 align="center">Art Gallery</h1>
